@@ -1,0 +1,76 @@
+# Hi there! 👋 I'm Arjun T P
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <span>📊 Data Analytics | 📈 Business Intelligence | 🌐 Web Development Enthusiast</span>
+</div>
+
+## 👨‍💻 About Me
+
+🎓 MCA Graduate passionate about turning data into insights  
+📊 Skilled in Data Analytics, Power BI, and Python scripting  
+🌐 Strong understanding of full stack development for data-driven web solutions  
+📍 Based in Palakkad, Kerala  
+
+---
+
+## 🛠 Tech Stack
+
+### Data Analytics & BI  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+### Web Development  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+
+📊 Advanced DAX and Power BI optimization  
+📈 Predictive Analytics and Data Modeling  
+⚛️ React for building dashboards and web-based analytics tools  
+
+---
+
+## 🎯 Current Focus
+
+Building interactive dashboards with predictive insights  
+Exploring data-driven web applications using Python and React  
+Developing projects that combine analytics and visualization  
+
+---
+
+## 📌 Featured Projects
+
+Hospitality Analytics Dashboard – Power BI dashboard with KPIs and churn prediction  
+Amazon Sales Data Analysis – Data cleaning, trend analysis, and visualization  
+Online Assessment System – Web-based student evaluation platform  
+T20 Cricket Data Analytics – Python + Power BI insights on team performance  
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-tp-)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/tpArjun123)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tparjun12@gmail.com)
+
+---
+
+<div align="center">
+  <i>⭐ Thanks for visiting! Let's build data-driven solutions together!</i>
+</div>
